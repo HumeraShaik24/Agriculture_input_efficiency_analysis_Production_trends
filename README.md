@@ -1,5 +1,5 @@
 # 🚜 Agriculture Input Efficiency & Yield Analysis Dashboard  
-**Tool Used**: Power BI Desktop | Python | DAX  
+**Tool Used**: Power BI Desktop | Python scrpting| DAX  
 **Domain**: Agriculture Analytics  
 **Project Type**: Exploratory Data Analysis + Forecasting
 
